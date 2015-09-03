@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NPager</id>
+    <version>1.0.4</version>
+    <authors>Nabin</authors>
+    <owners>Nabin</owners>
+    <projectUrl>https://github.com/nabinked/NPager</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A very simple ASP.NET Pager Control to be used with WebForms</description>
+    <releaseNotes>Reg Dev</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>ASP.NET Pager Webforms</tags>
+    <dependencies>
+      <dependency id="Bootstrap" version="3.3.5" />
+    </dependencies>
+  </metadata>
+</package>

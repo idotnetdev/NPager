@@ -6,10 +6,9 @@ using NPager.Helpers;
 
 namespace NPager
 {
-    public class Pager : Control
+    public class PagerControl : Control
     {
-        //Ctor
-        public Pager()
+        public PagerControl()
         {
             var query = HttpContext.Current.Request.QueryString["pageIndex"].ToInt();
             PageIndex = query < 1 ? 1 : query;
@@ -109,9 +108,10 @@ namespace NPager
 
         #endregion
 
+        #region Behaviours
         protected override void OnPreRender(EventArgs e)
         {
-            base.OnLoad(e);
+            base.OnPreRender(e);
             this.Controls.Add(GetPagerAnchors());
         }
 
@@ -143,7 +143,7 @@ namespace NPager
 
             return pagerWrapper;
         }
-        
+
         private void AddPagerFirstPageAnchor(Control paginationUl)
         {
             var li = new HtmlGenericControl("li");
@@ -245,6 +245,8 @@ namespace NPager
                 parentControl.Controls.Add(li);
             }
         }
+
+        #endregion
 
     }
 }

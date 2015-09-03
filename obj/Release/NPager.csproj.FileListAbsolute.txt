@@ -1,0 +1,5 @@
+E:\OneDrive\MyRepositories\PagerControl\NPager\bin\Release\NPager.dll
+E:\OneDrive\MyRepositories\PagerControl\NPager\bin\Release\NPager.pdb
+E:\OneDrive\MyRepositories\PagerControl\NPager\obj\Release\NPager.csprojResolveAssemblyReference.cache
+E:\OneDrive\MyRepositories\PagerControl\NPager\obj\Release\NPager.dll
+E:\OneDrive\MyRepositories\PagerControl\NPager\obj\Release\NPager.pdb

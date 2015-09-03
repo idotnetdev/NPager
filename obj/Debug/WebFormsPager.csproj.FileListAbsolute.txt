@@ -1,5 +1,0 @@
-E:\OneDrive\MyRepositories\PagerControl\WebFormsPager\obj\Debug\WebFormsPager.csprojResolveAssemblyReference.cache
-E:\OneDrive\MyRepositories\PagerControl\WebFormsPager\bin\Debug\WebFormsPager.dll
-E:\OneDrive\MyRepositories\PagerControl\WebFormsPager\bin\Debug\WebFormsPager.pdb
-E:\OneDrive\MyRepositories\PagerControl\WebFormsPager\obj\Debug\WebFormsPager.dll
-E:\OneDrive\MyRepositories\PagerControl\WebFormsPager\obj\Debug\WebFormsPager.pdb

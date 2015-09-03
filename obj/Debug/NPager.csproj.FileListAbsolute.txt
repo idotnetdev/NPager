@@ -1,4 +1,5 @@
-E:\OneDrive\MyRepositories\PagerControl\WebFormsPager\bin\Debug\NPager.dll
-E:\OneDrive\MyRepositories\PagerControl\WebFormsPager\bin\Debug\NPager.pdb
-E:\OneDrive\MyRepositories\PagerControl\WebFormsPager\obj\Debug\NPager.dll
-E:\OneDrive\MyRepositories\PagerControl\WebFormsPager\obj\Debug\NPager.pdb
+E:\OneDrive\MyRepositories\PagerControl\NPager\bin\Debug\NPager.dll
+E:\OneDrive\MyRepositories\PagerControl\NPager\bin\Debug\NPager.pdb
+E:\OneDrive\MyRepositories\PagerControl\NPager\obj\Debug\NPager.dll
+E:\OneDrive\MyRepositories\PagerControl\NPager\obj\Debug\NPager.pdb
+E:\OneDrive\MyRepositories\PagerControl\NPager\obj\Debug\NPager.csprojResolveAssemblyReference.cache

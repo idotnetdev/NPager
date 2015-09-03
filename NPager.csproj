@@ -7,7 +7,7 @@
     <ProjectGuid>{9E9EDF31-8859-4C3A-94C9-31A9719E3DF9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebFormsPager</RootNamespace>
+    <RootNamespace>NPager</RootNamespace>
     <AssemblyName>NPager</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
