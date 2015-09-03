@@ -27,13 +27,21 @@ A very simple ASP.NET Pager Control to be used with WebForms.
 
 This could be the markup on your .aspx page.
 ```HTML
-           <div class="row">
-                <asp:GridView runat="server" ID="CustomerGrid"></asp:GridView>
-                
-                <NPager:PagerControl runat="server" ID="Pager"></NPager:PagerControl>
+<!-- You need a reference to Bootstrap since the library currently uses bootstrap classes for styling-->
 
-            </div>
-            
+    <head runat="server">
+            <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    </head>
+
+    
+   <div class="row">
+        <asp:GridView runat="server" ID="CustomerGrid"></asp:GridView>
+        
+        <!-- This is where the pager will be rendered-->
+        <NPager:PagerControl runat="server" ID="Pager"></NPager:PagerControl>
+
+    </div>
+        
 ```
 Now in the code behind we can have
 ```C#
