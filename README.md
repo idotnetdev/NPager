@@ -9,7 +9,7 @@ A very simple ASP.NET Pager Control to be used with WebForms.
 - Made on Bootstrap.
 
 ###How does it work ?
-- Install, Place it in your markup and that is.
+- Install, Place it in your markup and thats it.
 - There needs to be a \<controls> element inside the \<pages> element inside \<system.web> inside \<configuration>. Because Nuget installation automatically inserts the necessary Web.Config settings to register the pager control.
 ```XML
 <system.web>
@@ -45,7 +45,6 @@ Now in the code behind we can have
             CustomerGrid.DataBind();
             Pager.RecordCount = _customers.Count;
         }
-        
-        ```
+```
   Thats it !
   ##Enjoy Paging.
