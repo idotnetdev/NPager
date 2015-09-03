@@ -10,7 +10,7 @@ A very simple ASP.NET Pager Control to be used with WebForms.
 
 ###How does it work ?
 - Install, Place it in your markup and that is.
-- There needs to be a <controls> element inside the <pages> element inside <system.web> inside <configuration>. Because Nuget installation automatically inserts the necessary Web.Config settings to register the pager control.
+- There needs to be a \<controls> element inside the \<pages> element inside \<system.web> inside \<configuration>. Because Nuget installation automatically inserts the necessary Web.Config settings to register the pager control.
 ```XML
 <system.web>
     <compilation debug="true" targetFramework="4.5.2"/>
